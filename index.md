@@ -1,4 +1,5 @@
-## Rustam Lukmanov, PhD
+### Hi, I am
+## Rustam Lukmanov
 
 You can use the [editor on GitHub](https://github.com/Lukmanovr/Lukmanovr-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
